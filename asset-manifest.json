@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://erience203.github.io/csb-yj3xo9/static/css/main.1e8d7644.chunk.css",
+    "main.js": "https://erience203.github.io/csb-yj3xo9/static/js/main.0207b7b7.chunk.js",
+    "main.js.map": "https://erience203.github.io/csb-yj3xo9/static/js/main.0207b7b7.chunk.js.map",
+    "runtime-main.js": "https://erience203.github.io/csb-yj3xo9/static/js/runtime-main.3f9b0677.js",
+    "runtime-main.js.map": "https://erience203.github.io/csb-yj3xo9/static/js/runtime-main.3f9b0677.js.map",
+    "static/js/2.2efe7526.chunk.js": "https://erience203.github.io/csb-yj3xo9/static/js/2.2efe7526.chunk.js",
+    "static/js/2.2efe7526.chunk.js.map": "https://erience203.github.io/csb-yj3xo9/static/js/2.2efe7526.chunk.js.map",
+    "index.html": "https://erience203.github.io/csb-yj3xo9/index.html",
+    "precache-manifest.789c36ed94a09b49beb90fd12c44fd97.js": "https://erience203.github.io/csb-yj3xo9/precache-manifest.789c36ed94a09b49beb90fd12c44fd97.js",
+    "service-worker.js": "https://erience203.github.io/csb-yj3xo9/service-worker.js",
+    "static/css/main.1e8d7644.chunk.css.map": "https://erience203.github.io/csb-yj3xo9/static/css/main.1e8d7644.chunk.css.map",
+    "static/media/pu.glb": "https://erience203.github.io/csb-yj3xo9/static/media/pu.2b4d3722.glb"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f9b0677.js",
+    "static/js/2.2efe7526.chunk.js",
+    "static/css/main.1e8d7644.chunk.css",
+    "static/js/main.0207b7b7.chunk.js"
+  ]
+}
